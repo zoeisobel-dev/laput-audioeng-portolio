@@ -6,7 +6,7 @@ import cardImage3 from "../assets/Kalapastangan.jpg";
 import cardImage4 from "../assets/SDTG.jpg";
 import cardImage5 from "../assets/LMNU.png";
 import cardImage6 from "../assets/OMGML.png";
-import cardImage7 from "../assets/SOMY.jpg";
+import cardImage7 from "../assets/SOMY.JPG";
 
 // ── Project data ───────────────────────────────────────────────
 const listen = [
