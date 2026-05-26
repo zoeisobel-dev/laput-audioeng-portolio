@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import me from "../assets/me.png";
+import me from "../assets/me2git.jpg";
 
 const AboutPage = () => {
     const navigate = useNavigate();
@@ -24,7 +24,7 @@ const AboutPage = () => {
             <section className="bg-black px-6 py-16">
                 <div className="max-w-3xl mx-auto text-center flex flex-col items-center gap-5">
                     <div className="w-40 h-40 rounded-full overflow-hidden border-4 border-zinc-700">
-                        <img src={me} alt="Zoe" className="w-full h-full object-cover" />
+                        <img src={me2} alt="Zoe" className="w-full h-full object-cover" />
                     </div>
                     <div>
                         <h2 className="text-4xl font-bold text-white">
