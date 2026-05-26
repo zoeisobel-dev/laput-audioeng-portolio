@@ -208,11 +208,8 @@ const HomePage = () => {
       {/* ── ABOUT ── */}
       <section id="about" className="border-b border-zinc-900 bg-zinc-50 px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
         <div className="mb-6 text-center">
-          <p className="text-[11px] font-semibold uppercase tracking-[0.28em] text-zinc-500">
-            About Me
-          </p>
           <h2 className="mt-2 text-2xl font-semibold text-zinc-900">
-            Zoe Isobel Laput
+            About Me
           </h2>
         </div>
 
