@@ -1,5 +1,6 @@
 import { useState } from "react";
 import me from "../assets/me.png";
+import me2 from "../assets/me2.jpg";
 import cardImage from "../assets/RUDEH.png";
 import cardImage2 from "../assets/DeadToMe.jpg";
 import cardImage3 from "../assets/Kalapastangan.jpg";
